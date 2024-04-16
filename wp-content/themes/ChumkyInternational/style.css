@@ -1,0 +1,10 @@
+/*
+Theme Name: Chumky International Wordpress
+Author: Bibendum
+Author URI: https://www.josevonchong.com/
+Version: 1.0
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
